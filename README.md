@@ -2,6 +2,7 @@
 
 A mobile-friendly React + TypeScript learning app for coding interview pattern recognition. It includes Java-first lessons, flashcard quizzes, spaced review, a roadmap, and simple step-based algorithm visualizers.
 
+
 ## Setup
 
 ```bash
